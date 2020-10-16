@@ -1,0 +1,1 @@
+# django_schools_project
